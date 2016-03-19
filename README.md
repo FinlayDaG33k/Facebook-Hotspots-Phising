@@ -1,5 +1,6 @@
 # Facebook-Hotspots-Phising
 the Phishing project around getting facebook credentials.  USE AT OWN RISK!
+the files included in this repo might (and probably will) be buggy!
 
 ## Installation of hostapd
 
