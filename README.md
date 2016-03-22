@@ -1,6 +1,17 @@
 # Facebook-Hotspots-Phising
-the Phishing project around getting facebook credentials.  USE AT OWN RISK!  
-the files included in this repo might (and probably will) be buggy!  
+The phishing project around getting facebook credentials. 
+
+# Some notes for the user
+- The code has only be tested on a `Raspberry Pi 2` paired with a `TP-Link TL-WN722N` so the code might not work for your setup.
+- The files included in this repo might (and probably will) be buggy.
+- The Access point will **NOT** grant any internet access by the default configurationas it can cause issues with the DNS
+- This project is purely for educational use. If you decide to misuse it, I won't help you out.
+
+#Todo list
+
+- [ ] Cleanup installation tutorial
+- [ ] Build a stable installer
+- [ ] Add tutotial for auto start on boot
 
 ## Installation of hostapd
 
